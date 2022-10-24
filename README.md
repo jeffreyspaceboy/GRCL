@@ -1,2 +1,1 @@
-# GRCL
- GRCL - General Robotics Control Library
+# GRCL - General Robotics Control Library
