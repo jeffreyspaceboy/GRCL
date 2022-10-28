@@ -1,6 +1,9 @@
-#include "stepper_motor.hpp"
+#include <PWM_Servo.hpp>
 
-int main (void)
-{
-	GRCL::StepperMotor stepperMotor1();
+void setup() {
+
+}
+
+void loop() {
+  
 }
